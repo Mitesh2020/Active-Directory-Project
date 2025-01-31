@@ -25,12 +25,12 @@ This repository guides you in setting up an Active Directory (AD) home lab with 
 ## Install Virtual Machines
 [Move To Top](#table-of-contents)
 <br><br>
-## Install & Configure Software
+## Install and Configure Software
 [Move To Top](#table-of-contents)
 <br><br>
 ## Configure Active Directory
 [Move To Top](#table-of-contents)
 <br><br>
-## Generate Telemetry With Kali & ART
+## Generate Telemetry With Kali and ART
 [Move To Top](#table-of-contents)
 
