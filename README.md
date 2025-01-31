@@ -15,9 +15,9 @@ This repository guides you in setting up an Active Directory (AD) home lab with 
 ## Table of Contents
 - [Build a Logical Diagram](#build-a-logical-diagram)
 - [Install Virtual Machines](#install-virtual-machines)
-- [Install & Configure Software](#install-&-configure-software)
+- [Install and Configure Software](#install-and-configure-software)
 - [Configure Active Directory](#configure-active-directory)
-- [Generate Telemetry With Kali & ART](#generate-telemetry-with-kali-&-art)
+- [Generate Telemetry With Kali and ART](#generate-telemetry-with-kali-and-art)
 <br><br>
 ## Build a Logical Diagram
 [Move To Top](#table-of-contents)
