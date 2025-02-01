@@ -14,12 +14,30 @@ This repository guides you in setting up an Active Directory (AD) home lab with 
 <br><br>
 ## Table of Contents
 - [Build a Logical Diagram](#build-a-logical-diagram)
+- [System Requirements](#system-requirements)
 - [Install Virtual Machines](#install-virtual-machines)
 - [Install and Configure Software](#install-and-configure-software)
 - [Configure Active Directory](#configure-active-directory)
 - [Generate Telemetry With Kali and ART](#generate-telemetry-with-kali-and-art)
 <br><br>
 ## Build a Logical Diagram
+For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
+
+![Diagram](https://github.com/user-attachments/assets/c28f6a01-0759-4ac3-92de-f451c6b79c99)
+
+[Move To Top](#table-of-contents)
+<br><br>
+## System Requirements
+| **Component**                 | **Minimum Requirement**         |
+|--------------------------------|--------------------------------|
+| **Primary OS**                 | Windows 11 / Windows 10        |
+| **RAM**                        | 16 GB                           |
+| **Storage**                    | 250 GB SSD/HDD                  |
+| **Windows Server 2022 VM**      | 4 GB RAM, 50 GB Storage         |
+| **Ubuntu Server (Splunk) VM**   | 8 GB RAM, 100 GB Storage        |
+| **Kali Linux (Attacker Machine)** | 4 GB RAM, 50 GB Storage (WSL or VirtualBox) |
+
+
 [Move To Top](#table-of-contents)
 <br><br>
 ## Install Virtual Machines
