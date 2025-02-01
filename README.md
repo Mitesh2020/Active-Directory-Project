@@ -23,6 +23,8 @@ This repository guides you in setting up an Active Directory (AD) home lab with 
 ## Build a Logical Diagram
 For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
+Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNjYdiqw51iAU)
+
 ![Diagram](https://github.com/user-attachments/assets/c28f6a01-0759-4ac3-92de-f451c6b79c99)
 
 [Move To Top](#table-of-contents)
