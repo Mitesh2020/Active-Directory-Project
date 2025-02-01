@@ -12,6 +12,7 @@
 
 This repository guides you in setting up an Active Directory (AD) home lab with Splunk, Kali Linux, and Atomic Red Team (ART) to simulate real-world cyber threats. It is ideal for cybersecurity enthusiasts, SOC analysts, and IT professionals, providing hands-on experience in threat detection, log analysis, and attack simulation in a safe environment.
 <br><br>
+
 ## Table of Contents
 - [Build a Logical Diagram](#build-a-logical-diagram)
 - [System Requirements](#system-requirements)
@@ -25,7 +26,7 @@ For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
 Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNjYdiqw51iAU)
 
-![Diagram](https://github.com/user-attachments/assets/c28f6a01-0759-4ac3-92de-f451c6b79c99)
+![Diagram](https://github.com/user-attachments/assets/40badb22-f0a9-4c1f-b033-c5f569c7618b)
 
 [Move To Top](#table-of-contents)
 <br><br>
@@ -43,6 +44,14 @@ Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNj
 [Move To Top](#table-of-contents)
 <br><br>
 ## Install Virtual Machines
+| **Virtual Machine**            | **Installation Source**  |  
+|--------------------------------|--------------------------------------------------------------|  
+| **Kali Linux**                 | [Kali Linux Official Site](https://kali.org/) or Install from Microsoft Store |  
+| **Windows Server 2022**        | [Microsoft (ISO)](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=2bd229687f9c6c1e186f3c0d7e2e6d4f) or [Torrent (FileCR)](https://filecr.com/windows/windows-server-2022/) |  
+| **Ubuntu Server**              | Any latest version |  
+
+Watch Tutorial: [Install Virtual Machines](https://youtu.be/2cEj3bS5C0Q?si=4NyRVKhv2nOBCIaf)
+
 [Move To Top](#table-of-contents)
 <br><br>
 ## Install and Configure Software
