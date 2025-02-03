@@ -95,6 +95,9 @@ For example: ```http://192.168.10.4:8000``` in this case.
 #### Step 4: Repeat Step 3 for Windows Server 2022
 Follow the same steps as in Step 3 for Windows Server 2022. Use the corresponding IP address for Windows Server 2022 (192.168.10.7).
 
+![image](https://github.com/user-attachments/assets/614726e9-5643-40d4-82bd-47fb0622170b)
+
+
 Watch Tutorial: [Install and Configure Software](https://youtu.be/uXRxoPKX65Q?si=EPI77sZXcpjyejDN)
 
 [Move To Top](#table-of-contents)
