@@ -59,6 +59,48 @@ Watch Tutorial: [Install Virtual Machines](https://youtu.be/2cEj3bS5C0Q?si=4NyRV
 [Move To Top](#table-of-contents)
 <br><br>
 ## Install and Configure Software
+### Objective
+Install and configure Sysmon and Splunk on Windows Server 2022 (Active Directory) and Windows 10 Pro. The configuration steps are the same for both systems. The process will be demonstrated on Windows 10 Pro, and the same steps can be applied to Windows Server 2022 with the appropriate IP address changes (192.168.10.100 for Windows 10 Pro and 192.168.10.7 for Windows Server 2022).
+
+### Steps
+
+#### Step 1: Create a New Subnet
+1. Open VirtualBox.
+2. Click on the three dots on the Tools tab.
+3. Go to Networks -> NAT Networks -> Click on "Create".
+4. Give your subnet a name and IPv4 prefix.
+5. Tick "Enable DHCP" and press "Apply".
+
+Now, go to each VM setting and change the network adapter to the NAT network. Your specified network name will appear automatically, e.g., `ad-project`.
+
+#### Step 2: Configure Splunk Server on Ubuntu Server
+
+1. Install Splunk on the Ubuntu server.
+2. Follow the Splunk setup instructions to complete the configuration.
+
+#### Step 3: Configure Sysmon & Splunk Universal Forwarder on Windows 10 Pro
+
+1. Download and install Sysmon on Windows 10 Pro.
+2. Configure Sysmon with the appropriate configuration file.
+3. Download and install Splunk Universal Forwarder on Windows 10 Pro.
+4. Configure the Splunk Universal Forwarder to forward logs to the Splunk server.
+
+If configured properly, you can access the Splunk dashboard at:
+```http://your-splunk-server-ip:8000```
+For example: ```http://192.168.10.4:8000``` in this case.
+
+**Note**: Allow ports 8000 and 9997 on the Ubuntu server.
+
+#### Step 4: Repeat Step 3 for Windows Server 2022
+
+Follow the same steps as in Step 3 for Windows Server 2022. Use the corresponding IP address for Windows Server 2022 (192.168.10.7).
+
+If configured properly, you can access the Splunk dashboard at:
+```http://your-splunk-server-ip:8000```
+For example: ```http://192.168.10.7:8000``` in this case.
+
+Watch Tutorial: [Install and Configure Software](https://youtu.be/uXRxoPKX65Q?si=EPI77sZXcpjyejDN)
+
 [Move To Top](#table-of-contents)
 <br><br>
 ## Configure Active Directory
