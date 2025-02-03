@@ -97,7 +97,7 @@ Follow the same steps as in Step 3 for Windows Server 2022. Use the correspondin
 
 If configured properly, you can access the Splunk dashboard at:
 ```http://your-splunk-server-ip:8000```
-For example: ```http://192.168.10.7:8000``` in this case.
+For example: ```http://192.168.10.4:8000``` in this case.
 
 Watch Tutorial: [Install and Configure Software](https://youtu.be/uXRxoPKX65Q?si=EPI77sZXcpjyejDN)
 
