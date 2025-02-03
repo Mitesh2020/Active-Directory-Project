@@ -31,14 +31,15 @@ Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNj
 [Move To Top](#table-of-contents)
 <br><br>
 ## System Requirements
-| **Component**                 | **Minimum Requirement**         |
-|--------------------------------|--------------------------------|
-| **Primary OS**                 | Windows 11 / Windows 10        |
-| **RAM**                        | 16 GB                           |
-| **Storage**                    | 250 GB SSD/HDD                  |
-| **Windows Server 2022 VM**      | 4 GB RAM, 50 GB Storage         |
-| **Ubuntu Server (Splunk) VM**   | 8 GB RAM, 100 GB Storage        |
-| **Kali Linux (Attacker Machine)** | 4 GB RAM, 50 GB Storage (WSL or VirtualBox) |
+Here's a table summarizing your VM system requirements:
+
+| **Virtual Machine**              | **RAM** | **Storage** | **CPU Cores** |
+|----------------------------------|---------|-------------|---------------|
+| Windows 10 Pro VM                | 8 GB    | 50 GB       | 1             |
+| Windows Server 2022 VM (AD)      | 4 GB    | 50 GB       | 1             |
+| Ubuntu Server VM (Splunk Server) | 8 GB    | 100 GB      | 2             |
+| Kali Linux VM (Attacker)         | 4 GB    | 50 GB       | 1             |
+| **Total**                        | 24 GB   | 250 GB      | 5             |
 
 
 [Move To Top](#table-of-contents)
