@@ -26,7 +26,7 @@ For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
 Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNjYdiqw51iAU)
 
-![Diagram](https://github.com/user-attachments/assets/40badb22-f0a9-4c1f-b033-c5f569c7618b)
+![Diagram](https://github.com/user-attachments/assets/6870952a-2def-42b9-a9b5-30ab2bafa719)
 
 [Move To Top](#table-of-contents)
 <br><br>
