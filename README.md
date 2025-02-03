@@ -36,10 +36,10 @@ Here's a table summarizing your VM system requirements:
 | **Virtual Machine**              | **RAM** | **Storage** | **CPU Cores** |
 |----------------------------------|---------|-------------|---------------|
 | Windows 10 Pro VM                | 8 GB    | 50 GB       | 1             |
-| Windows Server 2022 VM (AD)      | 4 GB    | 50 GB       | 1             |
+| Windows Server 2022 VM (AD)      | 8 GB    | 50 GB       | 1             |
 | Ubuntu Server VM (Splunk Server) | 8 GB    | 100 GB      | 2             |
 | Kali Linux VM (Attacker)         | 4 GB    | 50 GB       | 1             |
-| **Total**                        | 24 GB   | 250 GB      | 5             |
+| **Total**                        | 32 GB   | 250 GB      | 5             |
 
 
 [Move To Top](#table-of-contents)
