@@ -45,11 +45,14 @@ Here's a table summarizing your VM system requirements:
 [Move To Top](#table-of-contents)
 <br><br>
 ## Install Virtual Machines
-| **Virtual Machine**            | **Installation Source**  |  
-|--------------------------------|--------------------------------------------------------------|  
-| **Kali Linux**                 | [Kali Linux Official Site](https://kali.org/) or Install from Microsoft Store |  
-| **Windows Server 2022**        | [Microsoft (ISO)](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=2bd229687f9c6c1e186f3c0d7e2e6d4f) or [Torrent (FileCR)](https://filecr.com/windows/windows-server-2022/) |  
-| **Ubuntu Server**              | Any latest version |  
+Here's the table summarizing the download links and sizes for your virtual machines:
+
+| **Virtual Machine**              | **Download Link**                                                                                               | **Size**          |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------|
+| Kali Linux                       | [Kali Linux](https://www.kali.org/)                                                                             | 3 GB approx       |
+| Windows 10 Pro                   | [Windows 10 Pro](https://www.microsoft.com/en-us/software-download/windows10?msockid=2bd229687f9c6c1e186f3c0d7e2e6d4f) | 5 GB approx       |
+| Windows Server 2022              | [Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=2bd229687f9c6c1e186f3c0d7e2e6d4f) | 5 GB approx       |
+| Ubuntu Server                    | [Ubuntu Server](https://ubuntu.com/download/server)                                                              | 3 GB approx       |
 
 Watch Tutorial: [Install Virtual Machines](https://youtu.be/2cEj3bS5C0Q?si=4NyRVKhv2nOBCIaf)
 
