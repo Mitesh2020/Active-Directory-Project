@@ -103,6 +103,51 @@ Watch Tutorial: [Install and Configure Software](https://youtu.be/uXRxoPKX65Q?si
 [Move To Top](#table-of-contents)
 <br><br>
 ## Configure Active Directory
+
+### Objective
+Install and configure Windows Server 2022 (AD) to promote it to a Domain Controller and join Windows 10 Pro to the domain.
+
+#### Steps
+
+##### Step 1: Install and Configure Active Directory Domain Services (ADDS)
+1. On your Windows Server 2022, open Server Manager.
+2. Navigate to `Add roles and features`.
+3. Select `Role-based or feature-based installation` and choose your server.
+4. In the `Server Roles` section, select `Active Directory Domain Services` and complete the installation.
+5. After installation, promote the server to a domain controller by opening the AD DS Configuration Wizard. Follow the prompts to create a new forest named `splunk.local` (replace with your own domain if different).
+
+##### Step 2: Create Organizational Units (OUs)
+1. Open `Active Directory Users and Computers`.
+2. Right-click on your domain and select `New > Organizational Unit`.
+3. Create two OUs: `IT` and `HR`.
+
+##### Step 3: Create Users in Each Organizational Unit
+1. In the `IT` OU, right-click and select `New > User`.
+2. Create a user (e.g., ITUser) and set a password.
+3. Repeat the `HR` OU steps to create a user (e.g., HRUser) and set a password.
+4. Note down the usernames and passwords for later use.
+
+##### Step 4: Configure DNS on Windows 10 Pro VM
+1. Open your Windows 10 Pro VM.
+2. Navigate to `Network and Sharing Center > Change adapter settings`.
+3. Right-click on your network adapter and select `Properties`.
+4. Select `Internet Protocol Version 4 (TCP/IPv4)` and click on `Properties`.
+5. Set the `Preferred DNS server` to the IP address of your Windows Server 2022 (e.g., 192.168.10.7).
+
+##### Step 5: Join Windows 10 Pro VM to the Domain
+1. Open `Settings` on Windows 10 Pro VM.
+2. Go to `Accounts > Access work or school`.
+3. Click `Connect` and select `Join this device to a local Active Directory domain`.
+4. Enter the domain name (e.g., splunk.local) and click `Next`.
+5. Enter the Windows 10 Pro administrator credentials (e.g., Administrator: YourPassword).
+
+##### Step 6: Log in with the Created User
+1. Restart your Windows 10 Pro VM.
+2. On the login screen, select `Other user`.
+3. Enter the username and password of one of the users created in Step 3 (e.g., ITUser or HRUser).
+4. Login and verify that the domain join was successful.
+
+
 [Move To Top](#table-of-contents)
 <br><br>
 ## Generate Telemetry With Kali and ART
