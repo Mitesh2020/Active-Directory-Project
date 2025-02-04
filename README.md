@@ -4,7 +4,9 @@
 [![Made With](https://img.shields.io/badge/Made%20With-483d4b)](http://www.firsttimersonly.com/)
 [![Splunk](https://img.shields.io/badge/Splunk-77a33b)](http://www.firsttimersonly.com/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2688f0)](http://www.firsttimersonly.com/)
-[![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-d1212e)](http://www.firsttimersonly.com/)
+[![Windows Server 2022](https://img.shields.io/badge/Windows%20Server%202022-29903b)](http://www.firsttimersonly.com/)
+[![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-4cb17b)](http://www.firsttimersonly.com/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-e2511f)](http://www.firsttimersonly.com/)
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
@@ -26,7 +28,7 @@ For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
 Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNjYdiqw51iAU)
 
-![Diagram](https://github.com/user-attachments/assets/2e9962f0-c742-43c2-a790-9374ab332ae6)
+![Diagram](https://github.com/user-attachments/assets/ffa454b9-0ebd-40ee-8fa4-04fbee57cd84)
 
 [Move To Top](#table-of-contents)
 <br><br>
