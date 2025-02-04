@@ -26,7 +26,7 @@ For drawing a logical diagram visit: [draw.io](https://app.diagrams.net/)
 
 Watch Tutorial: [Build a Logical Diagram](https://youtu.be/mWqYyl89QaY?si=gVTKNjYdiqw51iAU)
 
-![Diagram](https://github.com/user-attachments/assets/6870952a-2def-42b9-a9b5-30ab2bafa719)
+![Diagram](https://github.com/user-attachments/assets/2e9962f0-c742-43c2-a790-9374ab332ae6)
 
 [Move To Top](#table-of-contents)
 <br><br>
@@ -147,6 +147,7 @@ Install and configure Windows Server 2022 (AD) to promote it to a Domain Control
 3. Enter the username and password of one of the users created in Step 3 (e.g., ITUser or HRUser).
 4. Login and verify that the domain join was successful.
 
+Watch Tutorial: [Configure Active Directory](https://youtu.be/1XeDht_B-bA?si=Co09joMXt5RcZTEl)
 
 [Move To Top](#table-of-contents)
 <br><br>
