@@ -154,5 +154,6 @@ Watch Tutorial: [Configure Active Directory](https://youtu.be/1XeDht_B-bA?si=Co0
 [Move To Top](#table-of-contents)
 <br><br>
 ## Generate Telemetry With Kali
+Note: Make a firewall rule on Windows 10 Pro for port 3389 (RDP) and ICMP for successfully attack through Kali Linux.
 [Move To Top](#table-of-contents)
 
