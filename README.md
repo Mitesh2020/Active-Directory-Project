@@ -157,7 +157,7 @@ Watch Tutorial: [Configure Active Directory](https://youtu.be/1XeDht_B-bA?si=Co0
 1. Make a firewall rule on Windows 10 Pro for port 3389 (RDP) and ICMP.
 2. Simulate attacks using Kali Linux.
 
-Watch Video Walkthrough: [Generate Telemetry](https://drive.google.com/file/d/1cNZfC697xQYbDsQkl1ZsJLejSVxaKNv-/view?usp=sharing)
+Watch Video Walkthrough: [Generate Telemetry](https://www.linkedin.com/posts/mitesh-rathod-8023b7176_cybersecurity-soc-threathunting-activity-7292903151223951361-Qvu3?utm_source=share&utm_medium=member_desktop)
 
 
 [Move To Top](#table-of-contents)
